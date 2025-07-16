@@ -1,4 +1,4 @@
 [build]
-  base = "uki-ukulele-app/uki-ukulele-app"
+  base = "uki-ukulele-app"
   publish = "dist"
   command = "npm run build"
